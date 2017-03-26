@@ -1,15 +1,18 @@
 # UAV-data-transmission
 
-Research paper about UAV data trasmission presented on SDPS2016. This respository contains [research paper],[poster],[keynote].
+Research paper about UAV data trasmission presented on SDPS2016. This respository contains [research paper](SDPS2016_UAV.pdf),[poster](UAV_Data_Transmission_Poster_Final_Version.pdf),[keynote](UAV_PPT.pdf).
 
 ## Paper Name:
 DATA TRANSMISSION STRATEGIES FOR UAV: AN OVERVIEW AND
 FUTURE PERSPECTIVES
 ## Authors:
+
 Zhili Shao, António L. L. Ramos
 University College of Southeast Norway (HSN)
+
 José A. Apolinário Jr.
 Military Institute of Engineering (IME)
+
 ## Abstract:
 This paper presents a literature review on strategies for
 data transmission from small-sized Unmanned Aerial
